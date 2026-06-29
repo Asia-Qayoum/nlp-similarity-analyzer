@@ -10,7 +10,7 @@ import time
 # ==========================================
 # SECTION 1: CONFIGURATION & GLASSMORPHISM CSS
 # ==========================================
-st.set_page_config(page_title="Organic Semantic AI", layout="wide", page_icon="🌿")
+st.set_page_config(page_title="NLP-Similarity-Analyzer", layout="wide", page_icon="🌿")
 
 def inject_glass_css():
     st.markdown("""
